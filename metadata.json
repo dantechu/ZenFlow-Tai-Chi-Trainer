@@ -1,0 +1,5 @@
+{
+  "name": "ZenFlow Tai Chi Trainer",
+  "description": "A personalized Tai Chi workout generator. It creates a custom routine and generates step-by-step video demonstrations using the Veo model.",
+  "requestFramePermissions": []
+}
